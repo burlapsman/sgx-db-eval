@@ -1,0 +1,20 @@
+﻿  Creating proxy/bridge routines
+  sample_enclave.cpp
+sample_enclave.cpp(204): warning C4018: “<”: 有符号/无符号不匹配
+  sample_enclave_t.c
+    正在创建库 D:\vsprojects\App\Simulation\sample_enclave.lib 和对象 D:\vsprojects\App\Simulation\sample_enclave.exp
+  sample_enclave.vcxproj -> D:\vsprojects\App\Simulation\sample_enclave.dll
+  sample_enclave.vcxproj -> D:\vsprojects\App\Simulation\sample_enclave.pdb (Full PDB)
+  <EnclaveConfiguration>
+      <ProdID>0</ProdID>
+      <ISVSVN>0</ISVSVN>
+      <StackMaxSize>0x40000</StackMaxSize>
+      <HeapMaxSize>0x100000</HeapMaxSize>
+      <TCSNum>1</TCSNum>
+      <TCSPolicy>1</TCSPolicy>
+      <DisableDebug>0</DisableDebug>
+      <MiscSelect>0</MiscSelect>
+      <MiscMask>0xFFFFFFFF</MiscMask>
+  </EnclaveConfiguration>
+  The required memory is 0x164000.
+  Succeed.

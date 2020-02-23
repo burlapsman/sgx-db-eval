@@ -1,0 +1,6 @@
+﻿  main_app.cpp
+d:\vsprojects\app\app\main_app.cpp(18): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  d:\vsprojects\app\app\main_app.cpp(18): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+d:\vsprojects\app\app\main_app.cpp(331): warning C4018: “<”: 有符号/无符号不匹配
+  App.vcxproj -> D:\vsprojects\App\Simulation\App.exe
+  App.vcxproj -> D:\vsprojects\App\Simulation\App.pdb (Full PDB)
